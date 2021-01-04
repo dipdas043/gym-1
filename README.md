@@ -1,3 +1,3 @@
-GyM template . 
-using HTML and CSS 
-no jovascript or php
+GyM template .<br> 
+using HTML and CSS .<br> 
+no jovascript or php .<br>
