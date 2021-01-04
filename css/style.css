@@ -1,0 +1,57 @@
+/* .body-font {
+    color: black;
+} */
+
+body {
+    background-color: rgb(176, 208, 209);
+    font-family: 'Redressed', cursive;
+}
+
+.ml-3 {
+    font-size: 19px;
+    color: blue;
+}
+
+.ml-3:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    cursor: pointer;
+    color: white;
+    font-size: 18px;
+}
+
+.mr-5:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+    font-size: 18px;
+}
+
+#team {
+    background-color: black;
+    color: blanchedalmond;
+    padding: 13px;
+}
+
+.btn {
+    color: rgb(37, 56, 37);
+    font-weight: bold;
+    padding: 13px;
+    border: 2px solid rgb(14, 10, 10);
+    /* background-color: rgb(219, 219, 136); */
+    border-radius: 10px;
+    margin: 13px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.btn:hover {
+    font-family: 'Redressed', cursive;
+    color: rgb(177, 212, 177);
+    background-color: rgb(6, 59, 9);
+}
+
+#btn1:hover {
+    font-family: 'Redressed', cursive;
+    color: rgb(177, 212, 177);
+    background-color: rgb(31, 34, 31);
+}
